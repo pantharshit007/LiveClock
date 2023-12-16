@@ -16,7 +16,7 @@ This is a simple web application that displays a live clock with the ability to 
 
 ## Getting Started
 
-To view the live clock, simply visit the [deployment link](https://pantharshit007.github.io/LiveClock/) in your web browser.
+To view the live clock, simply visit the [deployment link](https://liveclock007.onrender.com/) in your web browser.
 
 ## Usage
 
